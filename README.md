@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/santos-dayane/santos-dayane/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 
 <!--
